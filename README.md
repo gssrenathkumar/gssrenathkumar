@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gssrenathkumar" alt="gssrenathkumar" /></a> </p>
 
-- 🔭 I neuron Internship **Machine Learning Analysis**
+- 🔭 I am looking for an Internship **Machine Learning Analysis**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
