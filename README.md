@@ -3,7 +3,7 @@
 
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/gssrenathkumar2002?theme=light&font=Abel&ext=activity)
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gssrenathkumar&label=Profile%20views&color=0e75b6&style=flat" alt="gssrenathkumar" /> </p>
 
@@ -46,5 +46,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gssrenathkumar&" alt="gssrenathkumar" /></p>
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/gssrenathkumar2002?theme=light&font=Abel&ext=activity)
 
