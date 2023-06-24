@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center"> 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/g-s-srenath-kumar-24a7a01b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/g-s-srenath-kumar-24a7a01b5/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17599830/g-s-srenath-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17599830/g-s-srenath-kumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/srenathkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/srenathkumar" height="30" width="40" /></a>
@@ -63,10 +63,7 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 </div>
-</td><td valign="top" width="33%">
 
-
-</td><td valign="top" width="33%">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gssrenathkumar&show_icons=true&locale=en&layout=compact" alt="gssrenathkumar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gssrenathkumar&show_icons=true&locale=en" alt="gssrenathkumar" /></p>
