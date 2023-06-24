@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm G S SRENATH KUMAR</h1>
 <h3 align="center">Full Stack Developer |Machine Learning | Deep Learning | Data Scientist | Ethical Hacking Enthusiast</h3>
-
-<img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<div align="center"> 
+<img class="align"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
 <br>
 
 <br>
