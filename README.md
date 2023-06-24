@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gssrenathkumar" alt="gssrenathkumar" /></a> </p>
 
-- 🔭 I am looking for an Internship **Machine Learning Analysis**
+- 🔭 I am looking for an job as **Machine Learning Analysis**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **gssrenathkumar2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QrhTC6WQTZQape5fcPJFa5OouRi_cFb_/view?usp=sharing](https://drive.google.com/file/d/1QrhTC6WQTZQape5fcPJFa5OouRi_cFb_/view?usp=sharing)
+- 📄 Know about my experiences at <a href="gssrenathkumar.in">gssrenathkumar.in</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
