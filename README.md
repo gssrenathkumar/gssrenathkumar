@@ -63,6 +63,11 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 </div>
 
+<h3>Contact Details</h3>
+    <p>Phone number: +91 9894100731 (India)</p>
+    <p>Email: <a href="mailto:gssrenathkumar2002@gmail.com">gssrenathkumar2002@gmail.com</a></p>
+
+    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gssrenathkumar&show_icons=true&locale=en&layout=compact" alt="gssrenathkumar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gssrenathkumar&show_icons=true&locale=en" alt="gssrenathkumar" /></p>
