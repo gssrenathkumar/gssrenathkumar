@@ -62,11 +62,6 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 </div>
-
-<h3>Contact Details</h3>
-    <p>Phone number: +91 9894100731 (India)</p>
-    <p>Email: <a href="mailto:gssrenathkumar2002@gmail.com">gssrenathkumar2002@gmail.com</a></p>
-
     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gssrenathkumar&show_icons=true&locale=en&layout=compact" alt="gssrenathkumar" /></p>
 
