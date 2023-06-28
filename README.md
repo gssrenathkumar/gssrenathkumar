@@ -69,5 +69,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gssrenathkumar&" alt="gssrenathkumar" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gssrenathkumar2002?theme=light&font=Abel&ext=activity)
 
